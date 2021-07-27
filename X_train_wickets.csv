@@ -1,0 +1,532 @@
+venue,innings,batting_team,bowling_team,wickets
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,4
+Arun Jaitley Stadium,1,Rajasthan Royals,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Rajasthan Royals,1
+Wankhede Stadium,1,Mumbai Indians,Royal Challengers Bangalore,3
+Wankhede Stadium,2,Royal Challengers Bangalore,Mumbai Indians,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Rajasthan Royals,2
+M Chinnaswamy Stadium,2,Rajasthan Royals,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,1,Chennai Super Kings,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Chennai Super Kings,1
+Eden Gardens,1,Kolkata Knight Riders,Mumbai Indians,3
+Eden Gardens,2,Mumbai Indians,Kolkata Knight Riders,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,3
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,3
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Chennai Super Kings,2
+Arun Jaitley Stadium,2,Chennai Super Kings,Delhi Daredevils,0
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,2
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,2
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,1
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,4
+Wankhede Stadium,1,Chennai Super Kings,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Chennai Super Kings,0
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,3
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,0
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,3
+Eden Gardens,1,Kolkata Knight Riders,Chennai Super Kings,2
+Eden Gardens,2,Chennai Super Kings,Kolkata Knight Riders,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,1
+M Chinnaswamy Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,0
+Eden Gardens,1,Kolkata Knight Riders,Rajasthan Royals,1
+Eden Gardens,2,Rajasthan Royals,Kolkata Knight Riders,3
+Wankhede Stadium,1,Kings XI Punjab,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Kings XI Punjab,1
+Arun Jaitley Stadium,1,Mumbai Indians,Delhi Daredevils,0
+Arun Jaitley Stadium,2,Delhi Daredevils,Mumbai Indians,2
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,2
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,0
+Wankhede Stadium,1,Rajasthan Royals,Delhi Daredevils,0
+Wankhede Stadium,2,Delhi Daredevils,Rajasthan Royals,3
+Wankhede Stadium,1,Kings XI Punjab,Chennai Super Kings,4
+Wankhede Stadium,2,Chennai Super Kings,Kings XI Punjab,1
+Eden Gardens,1,Royal Challengers Bangalore,Kolkata Knight Riders,3
+Eden Gardens,2,Kolkata Knight Riders,Royal Challengers Bangalore,0
+Sardar Patel Stadium,1,Rajasthan Royals,Delhi Daredevils,3
+Sardar Patel Stadium,2,Delhi Daredevils,Rajasthan Royals,2
+M Chinnaswamy Stadium,1,Kings XI Punjab,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kings XI Punjab,0
+Eden Gardens,1,Chennai Super Kings,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Chennai Super Kings,3
+Arun Jaitley Stadium,1,Mumbai Indians,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Mumbai Indians,1
+M Chinnaswamy Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Rajasthan Royals,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Chennai Super Kings,1
+Arun Jaitley Stadium,2,Chennai Super Kings,Delhi Daredevils,1
+Sardar Patel Stadium,1,Rajasthan Royals,Kolkata Knight Riders,2
+Sardar Patel Stadium,2,Kolkata Knight Riders,Rajasthan Royals,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,1
+M Chinnaswamy Stadium,2,Chennai Super Kings,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,0
+Sardar Patel Stadium,1,Rajasthan Royals,Chennai Super Kings,1
+Sardar Patel Stadium,2,Chennai Super Kings,Rajasthan Royals,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,3
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Rajasthan Royals,3
+Arun Jaitley Stadium,2,Rajasthan Royals,Delhi Daredevils,4
+Eden Gardens,1,Kolkata Knight Riders,Kings XI Punjab,0
+Eden Gardens,2,Kings XI Punjab,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,2
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,1
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,0
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,1
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,3
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,0
+Eden Gardens,1,Rajasthan Royals,Kolkata Knight Riders,0
+Eden Gardens,2,Kolkata Knight Riders,Rajasthan Royals,2
+M Chinnaswamy Stadium,1,Mumbai Indians,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Mumbai Indians,2
+Eden Gardens,1,Mumbai Indians,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Mumbai Indians,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Mumbai Indians,3
+Arun Jaitley Stadium,2,Mumbai Indians,Delhi Daredevils,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,1
+Eden Gardens,1,Rajasthan Royals,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Rajasthan Royals,1
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,0
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,2
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,0
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,1
+Arun Jaitley Stadium,1,Kolkata Knight Riders,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Kolkata Knight Riders,1
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,2
+Wankhede Stadium,1,Mumbai Indians,Kings XI Punjab,1
+Wankhede Stadium,2,Kings XI Punjab,Mumbai Indians,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,1
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,4
+Eden Gardens,1,Chennai Super Kings,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Chennai Super Kings,2
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,1
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,4
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,3
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,2
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,2
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,0
+M Chinnaswamy Stadium,1,Chennai Super Kings,Royal Challengers Bangalore,4
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Chennai Super Kings,1
+Eden Gardens,1,Kolkata Knight Riders,Mumbai Indians,2
+Eden Gardens,2,Mumbai Indians,Kolkata Knight Riders,1
+Wankhede Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,1
+Wankhede Stadium,2,Chennai Super Kings,Royal Challengers Bangalore,2
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,4
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,0
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,4
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,2
+M Chinnaswamy Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,3
+Arun Jaitley Stadium,1,Chennai Super Kings,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Chennai Super Kings,2
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,1
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,2
+Eden Gardens,1,Rajasthan Royals,Kolkata Knight Riders,0
+Eden Gardens,2,Kolkata Knight Riders,Rajasthan Royals,1
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,2
+M Chinnaswamy Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Rajasthan Royals,2
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,2
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,1
+Wankhede Stadium,1,Mumbai Indians,Kings XI Punjab,0
+Wankhede Stadium,2,Kings XI Punjab,Mumbai Indians,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Mumbai Indians,0
+Arun Jaitley Stadium,2,Mumbai Indians,Delhi Daredevils,3
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,0
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Rajasthan Royals,2
+Arun Jaitley Stadium,2,Rajasthan Royals,Delhi Daredevils,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,1
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,1
+Wankhede Stadium,1,Chennai Super Kings,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Chennai Super Kings,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,2
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,0
+Wankhede Stadium,1,Mumbai Indians,Royal Challengers Bangalore,2
+Wankhede Stadium,2,Royal Challengers Bangalore,Mumbai Indians,0
+Eden Gardens,1,Mumbai Indians,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Mumbai Indians,2
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,3
+Eden Gardens,1,Kolkata Knight Riders,Chennai Super Kings,0
+Eden Gardens,2,Chennai Super Kings,Kolkata Knight Riders,0
+Arun Jaitley Stadium,1,Kings XI Punjab,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Kings XI Punjab,4
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,1,Chennai Super Kings,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Chennai Super Kings,1
+Eden Gardens,1,Delhi Daredevils,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Delhi Daredevils,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,0
+Arun Jaitley Stadium,1,Rajasthan Royals,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Rajasthan Royals,1
+M Chinnaswamy Stadium,1,Sunrisers Hyderabad,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Sunrisers Hyderabad,1
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,2
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,2
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Sunrisers Hyderabad,3
+Arun Jaitley Stadium,2,Sunrisers Hyderabad,Delhi Daredevils,1
+Eden Gardens,1,Kolkata Knight Riders,Sunrisers Hyderabad,0
+Eden Gardens,2,Sunrisers Hyderabad,Kolkata Knight Riders,0
+M Chinnaswamy Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,2
+Arun Jaitley Stadium,1,Chennai Super Kings,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Chennai Super Kings,4
+M Chinnaswamy Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Rajasthan Royals,0
+Eden Gardens,1,Kolkata Knight Riders,Chennai Super Kings,1
+Eden Gardens,2,Chennai Super Kings,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Mumbai Indians,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Mumbai Indians,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,2
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,3
+Eden Gardens,1,Kolkata Knight Riders,Mumbai Indians,1
+Eden Gardens,2,Mumbai Indians,Kolkata Knight Riders,1
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,0
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,2
+Wankhede Stadium,1,Mumbai Indians,Royal Challengers Bangalore,1
+Wankhede Stadium,2,Royal Challengers Bangalore,Mumbai Indians,1
+Wankhede Stadium,1,Mumbai Indians,Kings XI Punjab,1
+Wankhede Stadium,2,Kings XI Punjab,Mumbai Indians,2
+Eden Gardens,1,Rajasthan Royals,Kolkata Knight Riders,2
+Eden Gardens,2,Kolkata Knight Riders,Rajasthan Royals,1
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,0
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,4
+Wankhede Stadium,1,Mumbai Indians,Kolkata Knight Riders,0
+Wankhede Stadium,2,Kolkata Knight Riders,Mumbai Indians,1
+Arun Jaitley Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,2
+Wankhede Stadium,1,Sunrisers Hyderabad,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Sunrisers Hyderabad,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,1
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,1
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,1
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,4
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,1
+M Chinnaswamy Stadium,2,Chennai Super Kings,Royal Challengers Bangalore,3
+Arun Jaitley Stadium,1,Chennai Super Kings,Mumbai Indians,0
+Arun Jaitley Stadium,2,Mumbai Indians,Chennai Super Kings,1
+Arun Jaitley Stadium,1,Sunrisers Hyderabad,Rajasthan Royals,2
+Arun Jaitley Stadium,2,Rajasthan Royals,Sunrisers Hyderabad,1
+Eden Gardens,1,Rajasthan Royals,Mumbai Indians,0
+Eden Gardens,2,Mumbai Indians,Rajasthan Royals,0
+Eden Gardens,1,Mumbai Indians,Chennai Super Kings,3
+Eden Gardens,2,Chennai Super Kings,Mumbai Indians,4
+Wankhede Stadium,1,Kings XI Punjab,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Kings XI Punjab,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Rajasthan Royals,1
+Arun Jaitley Stadium,2,Rajasthan Royals,Delhi Daredevils,1
+M Chinnaswamy Stadium,1,Sunrisers Hyderabad,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Sunrisers Hyderabad,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Chennai Super Kings,2
+Arun Jaitley Stadium,2,Chennai Super Kings,Delhi Daredevils,0
+Sardar Patel Stadium,1,Rajasthan Royals,Kolkata Knight Riders,0
+Sardar Patel Stadium,2,Kolkata Knight Riders,Rajasthan Royals,0
+Wankhede Stadium,1,Mumbai Indians,Royal Challengers Bangalore,1
+Wankhede Stadium,2,Royal Challengers Bangalore,Mumbai Indians,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,2
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,0
+Sardar Patel Stadium,1,Sunrisers Hyderabad,Rajasthan Royals,1
+Sardar Patel Stadium,2,Rajasthan Royals,Sunrisers Hyderabad,3
+M Chinnaswamy Stadium,1,Kings XI Punjab,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kings XI Punjab,3
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,1
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Sunrisers Hyderabad,1
+Arun Jaitley Stadium,2,Sunrisers Hyderabad,Delhi Daredevils,2
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Rajasthan Royals,1
+M Chinnaswamy Stadium,2,Rajasthan Royals,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,1
+M Chinnaswamy Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,2
+Sardar Patel Stadium,1,Rajasthan Royals,Delhi Daredevils,1
+Sardar Patel Stadium,2,Delhi Daredevils,Rajasthan Royals,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,1
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,0
+Sardar Patel Stadium,1,Mumbai Indians,Rajasthan Royals,0
+Sardar Patel Stadium,2,Rajasthan Royals,Mumbai Indians,3
+Eden Gardens,1,Chennai Super Kings,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Chennai Super Kings,0
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,2
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,0
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,3
+M Chinnaswamy Stadium,2,Chennai Super Kings,Royal Challengers Bangalore,1
+Eden Gardens,1,Sunrisers Hyderabad,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Sunrisers Hyderabad,1
+Wankhede Stadium,1,Rajasthan Royals,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Rajasthan Royals,3
+Eden Gardens,1,Kolkata Knight Riders,Kings XI Punjab,1
+Eden Gardens,2,Kings XI Punjab,Kolkata Knight Riders,2
+Wankhede Stadium,1,Kings XI Punjab,Chennai Super Kings,0
+Wankhede Stadium,2,Chennai Super Kings,Kings XI Punjab,2
+M Chinnaswamy Stadium,1,Kings XI Punjab,Kolkata Knight Riders,2
+M Chinnaswamy Stadium,2,Kolkata Knight Riders,Kings XI Punjab,1
+Sardar Patel Stadium,1,Chennai Super Kings,Rajasthan Royals,2
+Sardar Patel Stadium,2,Rajasthan Royals,Chennai Super Kings,0
+M Chinnaswamy Stadium,1,Mumbai Indians,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Mumbai Indians,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,2
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,2
+Sardar Patel Stadium,1,Rajasthan Royals,Kings XI Punjab,0
+Sardar Patel Stadium,2,Kings XI Punjab,Rajasthan Royals,1
+M Chinnaswamy Stadium,1,Chennai Super Kings,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Chennai Super Kings,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Mumbai Indians,1
+Arun Jaitley Stadium,2,Mumbai Indians,Delhi Daredevils,2
+Sardar Patel Stadium,1,Rajasthan Royals,Royal Challengers Bangalore,2
+Sardar Patel Stadium,2,Royal Challengers Bangalore,Rajasthan Royals,1
+Eden Gardens,1,Mumbai Indians,Kolkata Knight Riders,3
+Eden Gardens,2,Kolkata Knight Riders,Mumbai Indians,1
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,0
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Rajasthan Royals,1
+Arun Jaitley Stadium,2,Rajasthan Royals,Delhi Daredevils,1
+Wankhede Stadium,1,Kings XI Punjab,Mumbai Indians,0
+Wankhede Stadium,2,Mumbai Indians,Kings XI Punjab,3
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Sunrisers Hyderabad,1
+M Chinnaswamy Stadium,2,Sunrisers Hyderabad,Royal Challengers Bangalore,0
+Sardar Patel Stadium,1,Mumbai Indians,Rajasthan Royals,2
+Sardar Patel Stadium,2,Rajasthan Royals,Mumbai Indians,1
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,3
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,0
+Wankhede Stadium,1,Mumbai Indians,Sunrisers Hyderabad,1
+Wankhede Stadium,2,Sunrisers Hyderabad,Mumbai Indians,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,2
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,0
+Eden Gardens,1,Chennai Super Kings,Kolkata Knight Riders,4
+Eden Gardens,2,Kolkata Knight Riders,Chennai Super Kings,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Rajasthan Royals,2
+Arun Jaitley Stadium,1,Kings XI Punjab,Delhi Daredevils,4
+Arun Jaitley Stadium,2,Delhi Daredevils,Kings XI Punjab,0
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,1
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,1
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kolkata Knight Riders,2
+Eden Gardens,1,Kolkata Knight Riders,Sunrisers Hyderabad,0
+Eden Gardens,2,Sunrisers Hyderabad,Kolkata Knight Riders,3
+Wankhede Stadium,1,Delhi Daredevils,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Delhi Daredevils,4
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,0
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,5
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,1
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,0
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,1
+Wankhede Stadium,1,Royal Challengers Bangalore,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Royal Challengers Bangalore,1
+Wankhede Stadium,1,Mumbai Indians,Kolkata Knight Riders,2
+Wankhede Stadium,2,Kolkata Knight Riders,Mumbai Indians,2
+M Chinnaswamy Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,0
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,0
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,2
+Eden Gardens,1,Mumbai Indians,Chennai Super Kings,1
+Eden Gardens,2,Chennai Super Kings,Mumbai Indians,1
+Eden Gardens,1,Delhi Daredevils,Kolkata Knight Riders,4
+Eden Gardens,2,Kolkata Knight Riders,Delhi Daredevils,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Sunrisers Hyderabad,1
+M Chinnaswamy Stadium,2,Sunrisers Hyderabad,Royal Challengers Bangalore,1
+Eden Gardens,1,Kolkata Knight Riders,Mumbai Indians,1
+Eden Gardens,2,Mumbai Indians,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Kings XI Punjab,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Kings XI Punjab,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,1
+M Chinnaswamy Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,2
+Wankhede Stadium,1,Royal Challengers Bangalore,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Mumbai Indians,1
+Arun Jaitley Stadium,2,Mumbai Indians,Delhi Daredevils,1
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,0
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,3
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,2
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kolkata Knight Riders,1
+M Chinnaswamy Stadium,2,Kolkata Knight Riders,Royal Challengers Bangalore,2
+Eden Gardens,1,Kolkata Knight Riders,Kings XI Punjab,0
+Eden Gardens,2,Kings XI Punjab,Kolkata Knight Riders,3
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,1
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,1
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,0
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kings XI Punjab,0
+M Chinnaswamy Stadium,2,Kings XI Punjab,Royal Challengers Bangalore,4
+Eden Gardens,1,Kolkata Knight Riders,Sunrisers Hyderabad,2
+Eden Gardens,2,Sunrisers Hyderabad,Kolkata Knight Riders,1
+Arun Jaitley Stadium,1,Sunrisers Hyderabad,Kolkata Knight Riders,1
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Sunrisers Hyderabad,1
+M Chinnaswamy Stadium,1,Sunrisers Hyderabad,Royal Challengers Bangalore,0
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Sunrisers Hyderabad,0
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,0
+Wankhede Stadium,1,Sunrisers Hyderabad,Mumbai Indians,0
+Wankhede Stadium,2,Mumbai Indians,Sunrisers Hyderabad,2
+Eden Gardens,1,Kings XI Punjab,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Kings XI Punjab,1
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Mumbai Indians,0
+M Chinnaswamy Stadium,2,Mumbai Indians,Royal Challengers Bangalore,4
+Eden Gardens,1,Kolkata Knight Riders,Sunrisers Hyderabad,2
+Eden Gardens,2,Sunrisers Hyderabad,Kolkata Knight Riders,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Kings XI Punjab,0
+Arun Jaitley Stadium,2,Kings XI Punjab,Delhi Daredevils,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,0
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,3
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,2
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,5
+Eden Gardens,1,Kolkata Knight Riders,Royal Challengers Bangalore,2
+Eden Gardens,2,Royal Challengers Bangalore,Kolkata Knight Riders,4
+Eden Gardens,1,Delhi Daredevils,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Delhi Daredevils,1
+Wankhede Stadium,1,Royal Challengers Bangalore,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,1,Sunrisers Hyderabad,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Sunrisers Hyderabad,1
+M Chinnaswamy Stadium,1,Kings XI Punjab,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,2,Royal Challengers Bangalore,Kings XI Punjab,3
+Arun Jaitley Stadium,1,Mumbai Indians,Delhi Daredevils,0
+Arun Jaitley Stadium,2,Delhi Daredevils,Mumbai Indians,5
+M Chinnaswamy Stadium,1,Royal Challengers Bangalore,Kolkata Knight Riders,3
+M Chinnaswamy Stadium,2,Kolkata Knight Riders,Royal Challengers Bangalore,0
+Wankhede Stadium,1,Kings XI Punjab,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Kings XI Punjab,0
+Eden Gardens,1,Mumbai Indians,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Mumbai Indians,3
+Arun Jaitley Stadium,1,Royal Challengers Bangalore,Delhi Daredevils,1
+Arun Jaitley Stadium,2,Delhi Daredevils,Royal Challengers Bangalore,2
+M Chinnaswamy Stadium,1,Sunrisers Hyderabad,Kolkata Knight Riders,1
+M Chinnaswamy Stadium,2,Kolkata Knight Riders,Sunrisers Hyderabad,3
+M Chinnaswamy Stadium,1,Kolkata Knight Riders,Mumbai Indians,3
+M Chinnaswamy Stadium,2,Mumbai Indians,Kolkata Knight Riders,3
+MA Chidambaram Stadium,1,Royal Challengers Bangalore,Chennai Super Kings,2
+MA Chidambaram Stadium,2,Chennai Super Kings,Royal Challengers Bangalore,1
+Eden Gardens,1,Sunrisers Hyderabad,Kolkata Knight Riders,0
+Eden Gardens,2,Kolkata Knight Riders,Sunrisers Hyderabad,1
+Wankhede Stadium,1,Delhi Daredevils,Mumbai Indians,2
+Wankhede Stadium,2,Mumbai Indians,Delhi Daredevils,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Chennai Super Kings,1
+Arun Jaitley Stadium,2,Chennai Super Kings,Delhi Daredevils,1
+Eden Gardens,1,Kolkata Knight Riders,Kings XI Punjab,2
+Eden Gardens,2,Kings XI Punjab,Kolkata Knight Riders,2
+Arun Jaitley Stadium,1,Kolkata Knight Riders,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Kolkata Knight Riders,1
+MA Chidambaram Stadium,1,Chennai Super Kings,Rajasthan Royals,3
+MA Chidambaram Stadium,2,Rajasthan Royals,Chennai Super Kings,3
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,1
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Sunrisers Hyderabad,2
+Arun Jaitley Stadium,2,Sunrisers Hyderabad,Delhi Daredevils,0
+MA Chidambaram Stadium,1,Chennai Super Kings,Kings XI Punjab,0
+MA Chidambaram Stadium,2,Kings XI Punjab,Chennai Super Kings,2
+MA Chidambaram Stadium,1,Kolkata Knight Riders,Chennai Super Kings,4
+MA Chidambaram Stadium,2,Chennai Super Kings,Kolkata Knight Riders,2
+Wankhede Stadium,1,Kings XI Punjab,Mumbai Indians,0
+Wankhede Stadium,2,Mumbai Indians,Kings XI Punjab,1
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,1
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,2
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,0
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,0
+Eden Gardens,1,Kolkata Knight Riders,Chennai Super Kings,1
+Eden Gardens,2,Chennai Super Kings,Kolkata Knight Riders,2
+Wankhede Stadium,1,Royal Challengers Bangalore,Mumbai Indians,1
+Wankhede Stadium,2,Mumbai Indians,Royal Challengers Bangalore,0
+Wankhede Stadium,1,Mumbai Indians,Chennai Super Kings,2
+Wankhede Stadium,2,Chennai Super Kings,Mumbai Indians,2
+Eden Gardens,1,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Royal Challengers Bangalore,2
+MA Chidambaram Stadium,1,Kolkata Knight Riders,Chennai Super Kings,2
+MA Chidambaram Stadium,2,Chennai Super Kings,Kolkata Knight Riders,1
+Wankhede Stadium,1,Mumbai Indians,Delhi Daredevils,0
+Wankhede Stadium,2,Delhi Daredevils,Mumbai Indians,1
+Eden Gardens,1,Kolkata Knight Riders,Sunrisers Hyderabad,1
+Eden Gardens,2,Sunrisers Hyderabad,Kolkata Knight Riders,2
+Eden Gardens,1,Kolkata Knight Riders,Delhi Daredevils,1
+Eden Gardens,2,Delhi Daredevils,Kolkata Knight Riders,3
+Wankhede Stadium,1,Mumbai Indians,Royal Challengers Bangalore,2
+Wankhede Stadium,2,Royal Challengers Bangalore,Mumbai Indians,2
+Eden Gardens,1,Kolkata Knight Riders,Kings XI Punjab,1
+Eden Gardens,2,Kings XI Punjab,Kolkata Knight Riders,0
+Arun Jaitley Stadium,1,Kings XI Punjab,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Kings XI Punjab,3
+Wankhede Stadium,1,Sunrisers Hyderabad,Mumbai Indians,4
+Wankhede Stadium,2,Mumbai Indians,Sunrisers Hyderabad,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Kolkata Knight Riders,0
+Arun Jaitley Stadium,2,Kolkata Knight Riders,Delhi Daredevils,4
+Arun Jaitley Stadium,1,Delhi Daredevils,Rajasthan Royals,1
+Arun Jaitley Stadium,2,Rajasthan Royals,Delhi Daredevils,0
+Eden Gardens,1,Chennai Super Kings,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Chennai Super Kings,2
+Wankhede Stadium,1,Mumbai Indians,Kolkata Knight Riders,0
+Wankhede Stadium,2,Kolkata Knight Riders,Mumbai Indians,2
+Eden Gardens,1,Mumbai Indians,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Mumbai Indians,2
+Arun Jaitley Stadium,1,Delhi Daredevils,Sunrisers Hyderabad,2
+Arun Jaitley Stadium,2,Sunrisers Hyderabad,Delhi Daredevils,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,2
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,2
+Wankhede Stadium,1,Mumbai Indians,Rajasthan Royals,0
+Wankhede Stadium,2,Rajasthan Royals,Mumbai Indians,1
+Eden Gardens,1,Rajasthan Royals,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Rajasthan Royals,2
+Wankhede Stadium,1,Mumbai Indians,Kings XI Punjab,3
+Wankhede Stadium,2,Kings XI Punjab,Mumbai Indians,1
+Arun Jaitley Stadium,1,Delhi Daredevils,Chennai Super Kings,1
+Arun Jaitley Stadium,2,Chennai Super Kings,Delhi Daredevils,0
+Arun Jaitley Stadium,1,Delhi Daredevils,Mumbai Indians,2
+Arun Jaitley Stadium,2,Mumbai Indians,Delhi Daredevils,1
+Wankhede Stadium,1,Sunrisers Hyderabad,Chennai Super Kings,3
+Wankhede Stadium,2,Chennai Super Kings,Sunrisers Hyderabad,3
+Eden Gardens,1,Kolkata Knight Riders,Rajasthan Royals,3
+Eden Gardens,2,Rajasthan Royals,Kolkata Knight Riders,1
+Eden Gardens,1,Sunrisers Hyderabad,Kolkata Knight Riders,0
+Eden Gardens,2,Kolkata Knight Riders,Sunrisers Hyderabad,1
+Wankhede Stadium,1,Sunrisers Hyderabad,Chennai Super Kings,1
+Wankhede Stadium,2,Chennai Super Kings,Sunrisers Hyderabad,1
+Arun Jaitley Stadium,1,Mumbai Indians,Delhi Daredevils,0
+Arun Jaitley Stadium,2,Delhi Daredevils,Mumbai Indians,0
+Eden Gardens,1,Royal Challengers Bangalore,Kolkata Knight Riders,1
+Eden Gardens,2,Kolkata Knight Riders,Royal Challengers Bangalore,3
+Arun Jaitley Stadium,1,Kings XI Punjab,Delhi Daredevils,2
+Arun Jaitley Stadium,2,Delhi Daredevils,Kings XI Punjab,1
+MA Chidambaram Stadium,1,Sunrisers Hyderabad,Chennai Super Kings,1
+MA Chidambaram Stadium,2,Chennai Super Kings,Sunrisers Hyderabad,1
+Eden Gardens,1,Kolkata Knight Riders,Rajasthan Royals,2
+Eden Gardens,2,Rajasthan Royals,Kolkata Knight Riders,1
+MA Chidambaram Stadium,1,Mumbai Indians,Chennai Super Kings,1
+MA Chidambaram Stadium,2,Chennai Super Kings,Mumbai Indians,3
+Arun Jaitley Stadium,1,Delhi Daredevils,Royal Challengers Bangalore,1
+Arun Jaitley Stadium,2,Royal Challengers Bangalore,Delhi Daredevils,1
+Eden Gardens,1,Kolkata Knight Riders,Mumbai Indians,0
+Eden Gardens,2,Mumbai Indians,Kolkata Knight Riders,2
+MA Chidambaram Stadium,1,Chennai Super Kings,Delhi Daredevils,1
+MA Chidambaram Stadium,2,Delhi Daredevils,Chennai Super Kings,2
+Wankhede Stadium,1,Mumbai Indians,Sunrisers Hyderabad,1
+Wankhede Stadium,2,Sunrisers Hyderabad,Mumbai Indians,2
+Arun Jaitley Stadium,1,Rajasthan Royals,Delhi Daredevils,4
+Arun Jaitley Stadium,2,Delhi Daredevils,Rajasthan Royals,2
+Wankhede Stadium,1,Kolkata Knight Riders,Mumbai Indians,0
+Wankhede Stadium,2,Mumbai Indians,Kolkata Knight Riders,0
+MA Chidambaram Stadium,1,Chennai Super Kings,Mumbai Indians,3
+MA Chidambaram Stadium,2,Mumbai Indians,Chennai Super Kings,2
+Wankhede Stadium,1,Chennai Super Kings,Delhi Daredevils,2
+Wankhede Stadium,2,Delhi Daredevils,Chennai Super Kings,0
