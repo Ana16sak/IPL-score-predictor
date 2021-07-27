@@ -1,3 +1,7 @@
+This model predicts a score of a given IPL team at the end of 6 overs
+
+the training data was used from https://cricsheet.org/
+
 I've used an ensemble model with a Random Forest and a Gradient boost Reggresor and trained on these features
 1. venue
 2. innings
